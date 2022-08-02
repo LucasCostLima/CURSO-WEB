@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "Projeto-Anna-Bella"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "CURSO-WEB"
+  }
+}
